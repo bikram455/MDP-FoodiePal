@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="meal_plans">
+        <item>@array/meal1</item>
+        <item>@array/meal2</item>
+    </array>
+    <string-array name="meal1">
+        <item>12-1-2023 Friday</item>
+        <item>Breakfast, Lunch, Dinner</item>
+    </string-array>
+    <string-array name="meal2">
+        <item>12-2-2023 Saturday</item>
+        <item>Breakfast, Lunch, Snacks, Dinner</item>
+    </string-array>
+</resources>

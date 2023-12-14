@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name_label_id" type="id"/>
+    <item name="name_text_id" type="id"/>
+    <item name="field_text_id" type="id"/>
+</resources>

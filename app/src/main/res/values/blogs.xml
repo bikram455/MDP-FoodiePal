@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blogs">
+        <item>My Blog 1..</item>
+        <item>My Blog 2..</item>
+        <item>My Blog 3..</item>
+        <item>My Blog 4..</item>
+        <item>My Blog 5..</item>
+        <item>My Blog 6..</item>
+    </string-array>
+</resources>

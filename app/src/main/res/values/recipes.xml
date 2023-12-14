@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="recipes">
+        <item>@array/recipe1</item>
+        <item>@array/recipe2</item>
+    </array>
+    <string-array name="recipe1">
+        <item>Pasta</item>
+        <item>Instructions...</item>
+        <item>Flour, Salt, Tomato</item>
+    </string-array>
+    <string-array name="recipe2">
+        <item>Pizza</item>
+        <item>Instructions...</item>
+        <item>Flour, Salt, Tomato</item>
+    </string-array>
+</resources>

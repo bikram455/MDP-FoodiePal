@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="users">
+        <item>@array/user1</item>
+        <item>@array/user2</item>
+    </array>
+    <string-array name="user1">
+        <item>jdoe</item>
+        <item>food123</item>
+        <item>John Doe</item>
+    </string-array>
+
+    <string-array name="user2">
+        <item>mjane</item>
+        <item>food123</item>
+        <item>Mary Jane</item>
+    </string-array>
+</resources>
